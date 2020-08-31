@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	301909423	PlayCubeMovement			\Default Work Unit\PlayCubeMovement	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	501015974	CubeAcceleration			\Default Work Unit\CubeAcceleration	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	838083720	CubeMovement	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\Sine60_CC87FBFB.wem		\Actor-Mixer Hierarchy\TimelineDemo\CubeMovement		176464
+

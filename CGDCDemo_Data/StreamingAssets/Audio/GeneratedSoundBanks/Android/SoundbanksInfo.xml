@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\GeneratedSoundBanks\Android\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\GeneratedSoundBanks\Android</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="187046019" Name="LargeRoom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambisonics\LargeRoom"/>
+				<AuxBus Id="2763016207" Name="ThirdPerson" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambisonics\ThirdPerson"/>
+				<AuxBus Id="2872041301" Name="Microphone" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambisonics\Test3DBus\Microphone"/>
+				<AuxBus Id="2933838247" Name="SmallRoom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambisonics\SmallRoom"/>
+				<AuxBus Id="3050928690" Name="BlueCave" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambisonics\BlueCave"/>
+				<AuxBus Id="3822919377" Name="RedCave" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambisonics\RedCave"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="2354093420" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Timeline</ObjectPath>
+			<ShortName>Timeline</ShortName>
+			<Path>Timeline.bnk</Path>
+			<IncludedEvents>
+				<Event Id="301909423" Name="PlayCubeMovement" ObjectPath="\Events\Default Work Unit\PlayCubeMovement" DurationType="OneShot" DurationMin="2.000000" DurationMax="2.000000">
+					<IncludedMemoryFiles>
+						<File Id="838083720" Language="SFX">
+							<ShortName>Sine60.wav</ShortName>
+							<Path>SFX\Sine60_CC87FBFB.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="501015974" Name="CubeAcceleration" ObjectPath="\Game Parameters\Default Work Unit\CubeAcceleration"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="2385628198" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Footsteps</ObjectPath>
+			<ShortName>Footsteps</ShortName>
+			<Path>Footsteps.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\Footstep" DurationType="OneShot" DurationMin="0.226063" DurationMax="0.491701">
+					<IncludedMemoryFiles>
+						<File Id="159580771" Language="SFX">
+							<ShortName>Footsteps\WoodSolid\Footstep_Walking_Hardwood_01.wav</ShortName>
+							<Path>SFX\Footsteps\WoodSolid\Footstep_Walking_Hardwood_01_CC87FBFB.wem</Path>
+						</File>
+						<File Id="392099187" Language="SFX">
+							<ShortName>Footsteps\Gravel\AK_FS_Run_Gravel_03.wav</ShortName>
+							<Path>SFX\Footsteps\Gravel\AK_FS_Run_Gravel_03_CC87FBFB.wem</Path>
+						</File>
+						<File Id="443849517" Language="SFX">
+							<ShortName>Footsteps\Grass\grass_02.wav</ShortName>
+							<Path>SFX\Footsteps\Grass\grass_02_CC87FBFB.wem</Path>
+						</File>
+						<File Id="444882911" Language="SFX">
+							<ShortName>Footsteps\Dirt\FS_Dirt_03.wav</ShortName>
+							<Path>SFX\Footsteps\Dirt\FS_Dirt_03_CC87FBFB.wem</Path>
+						</File>
+						<File Id="459922548" Language="SFX">
+							<ShortName>Footsteps\WoodSolid\Footstep_Walking_Hardwood_05.wav</ShortName>
+							<Path>SFX\Footsteps\WoodSolid\Footstep_Walking_Hardwood_05_CC87FBFB.wem</Path>
+						</File>
+						<File Id="485521764" Language="SFX">
+							<ShortName>Footsteps\Grass\grass_04.wav</ShortName>
+							<Path>SFX\Footsteps\Grass\grass_04_CC87FBFB.wem</Path>
+						</File>
+						<File Id="525288719" Language="SFX">
+							<ShortName>Footsteps\Dirt\FS_Dirt_04.wav</ShortName>
+							<Path>SFX\Footsteps\Dirt\FS_Dirt_04_CC87FBFB.wem</Path>
+						</File>
+						<File Id="609197767" Language="SFX">
+							<ShortName>Footsteps\WoodSolid\Footstep_Walking_Hardwood_04.wav</ShortName>
+							<Path>SFX\Footsteps\WoodSolid\Footstep_Walking_Hardwood_04_CC87FBFB.wem</Path>
+						</File>
+						<File Id="631840771" Language="SFX">
+							<ShortName>Footsteps\Gravel\AK_FS_Run_Gravel_01.wav</ShortName>
+							<Path>SFX\Footsteps\Gravel\AK_FS_Run_Gravel_01_CC87FBFB.wem</Path>
+						</File>
+						<File Id="654689184" Language="SFX">
+							<ShortName>Footsteps\Grass\grass_03.wav</ShortName>
+							<Path>SFX\Footsteps\Grass\grass_03_CC87FBFB.wem</Path>
+						</File>
+						<File Id="703981150" Language="SFX">
+							<ShortName>Footsteps\Grass\grass_01.wav</ShortName>
+							<Path>SFX\Footsteps\Grass\grass_01_CC87FBFB.wem</Path>
+						</File>
+						<File Id="733953183" Language="SFX">
+							<ShortName>Footsteps\WoodSolid\Footstep_Walking_Hardwood_02.wav</ShortName>
+							<Path>SFX\Footsteps\WoodSolid\Footstep_Walking_Hardwood_02_CC87FBFB.wem</Path>
+						</File>
+						<File Id="774920062" Language="SFX">
+							<ShortName>Footsteps\WoodSolid\Footstep_Walking_Hardwood_03.wav</ShortName>
+							<Path>SFX\Footsteps\WoodSolid\Footstep_Walking_Hardwood_03_CC87FBFB.wem</Path>
+						</File>
+						<File Id="802162658" Language="SFX">
+							<ShortName>Footsteps\Gravel\AK_FS_Run_Gravel_02.wav</ShortName>
+							<Path>SFX\Footsteps\Gravel\AK_FS_Run_Gravel_02_CC87FBFB.wem</Path>
+						</File>
+						<File Id="810749029" Language="SFX">
+							<ShortName>Footsteps\Dirt\FS_Dirt_01.wav</ShortName>
+							<Path>SFX\Footsteps\Dirt\FS_Dirt_01_CC87FBFB.wem</Path>
+						</File>
+						<File Id="847372891" Language="SFX">
+							<ShortName>Footsteps\Dirt\FS_Dirt_02.wav</ShortName>
+							<Path>SFX\Footsteps\Dirt\FS_Dirt_02_CC87FBFB.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{B000CEC9-742D-48FE-80DA-FFFBE08CBE0D}">
+							<Media>
+								<File Id="810749029"/>
+								<File Id="847372891"/>
+								<File Id="444882911"/>
+								<File Id="525288719"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{2462CFC6-937E-4F74-91CE-8415CD339153}">
+							<Media>
+								<File Id="631840771"/>
+								<File Id="802162658"/>
+								<File Id="392099187"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{52D22376-67AF-4178-99E8-6FC05D93D402}">
+							<Media>
+								<File Id="159580771"/>
+								<File Id="733953183"/>
+								<File Id="774920062"/>
+								<File Id="609197767"/>
+								<File Id="459922548"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{0F7D5FEE-C178-4720-86A7-6E8D01DCC9F4}">
+							<Media>
+								<File Id="703981150"/>
+								<File Id="443849517"/>
+								<File Id="654689184"/>
+								<File Id="485521764"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="684570577" Name="Footstep_Material" ObjectPath="\Switches\Default Work Unit\Footstep_Material">
+					<Switches>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Footstep_Material\Wood"/>
+						<Switch Id="2185786256" Name="Gravel" ObjectPath="\Switches\Default Work Unit\Footstep_Material\Gravel"/>
+						<Switch Id="2195636714" Name="Dirt" ObjectPath="\Switches\Default Work Unit\Footstep_Material\Dirt"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Footstep_Material\Grass"/>
+						<Switch Id="4248742144" Name="Nothing" ObjectPath="\Switches\Default Work Unit\Footstep_Material\Nothing"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="2820090000" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Subtitles</ObjectPath>
+			<ShortName>Subtitles</ShortName>
+			<Path>Subtitles.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3875076402" Name="PlaySubtitles" ObjectPath="\Events\Default Work Unit\PlaySubtitles" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="9.768979" DurationMax="9.768979">
+					<IncludedMemoryFiles>
+						<File Id="273222379" Language="SFX">
+							<ShortName>Marker_Test_001.wav</ShortName>
+							<Path>SFX\Marker_Test_001_CC87FBFB.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3556213387" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SpatialAudio</ObjectPath>
+			<ShortName>SpatialAudio</ShortName>
+			<Path>SpatialAudio.bnk</Path>
+			<IncludedEvents>
+				<Event Id="676694472" Name="MachineGun_Off" ObjectPath="\Events\Default Work Unit\MachineGun_Off" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="275027026" Name="MachineGun_On" ObjectPath="\Events\Default Work Unit\MachineGun_On" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="106034287" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_F8D5AC1F.wem</Path>
+						</File>
+						<File Id="206174554" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_04F2D6DD.wem</Path>
+						</File>
+						<File Id="220410905" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_16F0134E.wem</Path>
+						</File>
+						<File Id="237672681" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_A99A0283.wem</Path>
+						</File>
+						<File Id="268770813" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_113C92F9.wem</Path>
+						</File>
+						<File Id="640471314" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_BDBF6214.wem</Path>
+						</File>
+						<File Id="645207913" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_090FFA5B.wem</Path>
+						</File>
+						<File Id="656446891" Language="SFX">
+							<ShortName>8 Mr. Bill Perc.wav</ShortName>
+							<Path>SFX\8 Mr. Bill Perc_4A86974D.wem</Path>
+						</File>
+						<File Id="824423607" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_BF7B2A52.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2063165418" Name="Play_Beep" ObjectPath="\Events\Default Work Unit\Play_Beep" DurationType="OneShot" DurationMin="0.100000" DurationMax="0.100000"/>
+				<Event Id="1441912848" Name="Play_Playlist" ObjectPath="\Events\Default Work Unit\Play_Playlist" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="51095565" Language="SFX">
+							<ShortName>Bluezone-Chillz-drum-loop-003-100.wav</ShortName>
+							<Path>SFX\Bluezone-Chillz-drum-loop-003-100_E6B39AE9.wem</Path>
+						</File>
+						<File Id="93359877" Language="SFX">
+							<ShortName>Bluezone-Chillz-drum-loop-001-100.wav</ShortName>
+							<Path>SFX\Bluezone-Chillz-drum-loop-001-100_E6B39AE9.wem</Path>
+						</File>
+						<File Id="314637647" Language="SFX">
+							<ShortName>Bluezone-Chillz-drum-loop-002-100.wav</ShortName>
+							<Path>SFX\Bluezone-Chillz-drum-loop-002-100_E6B39AE9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3481958196" Name="Play_Playlist_Music" ObjectPath="\Events\Default Work Unit\Play_Playlist_Music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="51095565" Language="SFX">
+							<ShortName>Bluezone-Chillz-drum-loop-003-100.wav</ShortName>
+							<Path>SFX\Bluezone-Chillz-drum-loop-003-100_E6B39AE9.wem</Path>
+						</File>
+						<File Id="93359877" Language="SFX">
+							<ShortName>Bluezone-Chillz-drum-loop-001-100.wav</ShortName>
+							<Path>SFX\Bluezone-Chillz-drum-loop-001-100_E6B39AE9.wem</Path>
+						</File>
+						<File Id="314637647" Language="SFX">
+							<ShortName>Bluezone-Chillz-drum-loop-002-100.wav</ShortName>
+							<Path>SFX\Bluezone-Chillz-drum-loop-002-100_E6B39AE9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="383672487" Name="Play_Test3DBusEmitter" ObjectPath="\Events\Default Work Unit\Play_Test3DBusEmitter" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="261823756" Language="SFX">
+							<ShortName>SF-DS Energy Power 04 Off Medium.wav</ShortName>
+							<Path>SFX\SF-DS Energy Power 04 Off Medium_700CC527.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1483003980" Name="Play_TestLoop" ObjectPath="\Events\Default Work Unit\Play_TestLoop" DurationType="Infinite"/>
+				<Event Id="2341029961" Name="PlayDialogue" ObjectPath="\Events\Default Work Unit\PlayDialogue" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="104.160721" DurationMax="104.160721">
+					<IncludedMemoryFiles>
+						<File Id="51120730" Language="SFX">
+							<ShortName>Voices\English(US)\Discussion.wav</ShortName>
+							<Path>SFX\Voices\English(US)\Discussion_C4D3D1E9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2570281838" Name="PlayRoomTone" ObjectPath="\Events\Default Work Unit\PlayRoomTone" MaxAttenuation="20.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="633107412" Language="SFX">
+							<ShortName>Ambience_40.wav</ShortName>
+							<Path>SFX\Ambience_40_E6B39AE9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="872316793" Name="Stop_Test3DBusEmitter" ObjectPath="\Events\Default Work Unit\Stop_Test3DBusEmitter" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="261823756" Language="SFX">
+							<ShortName>SF-DS Energy Power 04 Off Medium.wav</ShortName>
+							<Path>SFX\SF-DS Energy Power 04 Off Medium_700CC527.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="640949982" Name="Speed" ObjectPath="\Game Parameters\Default Work Unit\Speed"/>
+				<GameParameter Id="864145949" Name="LPF" ObjectPath="\Game Parameters\Default Work Unit\LPF"/>
+				<GameParameter Id="2828409398" Name="DopplerParam" ObjectPath="\Game Parameters\Default Work Unit\DopplerParam"/>
+				<GameParameter Id="3072701325" Name="HeartRate" ObjectPath="\Game Parameters\Default Work Unit\HeartRate"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3761286811" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Environments</ObjectPath>
+			<ShortName>Environments</ShortName>
+			<Path>Environments.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3660193989" Name="PlayImpact" ObjectPath="\Events\Default Work Unit\PlayImpact" DurationType="OneShot" DurationMin="0.347710" DurationMax="0.347710">
+					<IncludedMemoryFiles>
+						<File Id="652817804" Language="SFX">
+							<ShortName>imp_axe_stone_04.wav</ShortName>
+							<Path>SFX\imp_axe_stone_04_CC87FBFB.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

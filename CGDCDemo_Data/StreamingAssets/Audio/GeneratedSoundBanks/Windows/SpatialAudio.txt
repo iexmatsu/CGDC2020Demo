@@ -1,0 +1,62 @@
+Event	ID	Name			Wwise Object Path	Notes
+	275027026	MachineGun_On			\Default Work Unit\MachineGun_On	
+	288905442	Stop_Dialogue			\Default Work Unit\Stop_Dialogue	
+	531108731	Play_DialogueLoop43DBus			\Default Work Unit\Play_DialogueLoop43DBus	
+	676694472	MachineGun_Off			\Default Work Unit\MachineGun_Off	
+	1805398666	Play_3DRoomToneTest			\Default Work Unit\Play_3DRoomToneTest	
+	2341029961	PlayDialogue			\Default Work Unit\PlayDialogue	
+	2570281838	PlayRoomTone			\Default Work Unit\PlayRoomTone	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2180937177	InOutRoom			\Default Work Unit\InOutRoom	
+
+Switch	ID	Name	Switch Group			Notes
+	645492555	Out	InOutRoom			
+	1752637612	In	InOutRoom			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3983943587	MusicInsideOutside			\Default Work Unit\MusicInsideOutside	
+
+State	ID	Name	State Group			Notes
+	438105790	Outside	MusicInsideOutside			
+	748895195	None	MusicInsideOutside			
+	3553349781	Inside	MusicInsideOutside			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	85366399	Inside	MusicInsideOutside	\Actor-Mixer Hierarchy\SpatialAudioDemo\DialogueLoop43DBus		
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	215990793	Modulator Envelope (Custom)				
+	281569149	Modulator Envelope (Custom)				
+	879227373	Modulator Envelope (Custom)				
+	1064101194	Modulator Envelope (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	62865476	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_01\Punch\Wwise Sine	
+	256419050	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_04\Punch\Wwise Sine	
+	349049155	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_03\Punch\Wwise Sine	
+	404719294	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\TailSwitch\Silence\Wwise Silence	
+	1022826997	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_02\Punch\Wwise Sine	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	106034287	Tail_03	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Single Tail_F11D4301.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\TailSwitch\Tails\Tail_03		28738
+	206174554	Tail_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Single Tail_52639434.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\TailSwitch\Tails\Tail_01		16486
+	220410905	Shoot_04	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Auto Close 01_F98461A6.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_04\Shoot_04		3336
+	237672681	Tail_02	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Single Tail_AD6DA3E4.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\TailSwitch\Tails\Tail_02		21966
+	268770813	Shoot_03	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Auto Close 01_32CD93B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_03\Shoot_03		3530
+	520652971	HitMark	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\8 Mr. Bill Perc_04E0FC10.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_01\HitMark		1797
+	640471314	Shoot_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Auto Close 01_6DC88940.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_01\Shoot_01		3293
+	645207913	Tail_04	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Single Tail_107494D7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\TailSwitch\Tails\Tail_04		30336
+	656446891	HitMark	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\8 Mr. Bill Perc_2B863027.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_04\HitMark		1797
+	764970494	HitMark	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\8 Mr. Bill Perc_2AE4805F.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_02\HitMark		1797
+	824423607	Shoot_02	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\AWCK AR AK 47 Krinkov Auto Close 01_43ADFA4D.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_02\Shoot_02		3380
+	855856110	3DRoomToneTest	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\testquad_E6B39AE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\3DRoomToneTest		384064
+	1056528972	HitMark	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\8 Mr. Bill Perc_C077CF5F.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_03\HitMark		1797
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	633107412	RoomTone	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\Ambience_40_E6B39AE9.wem	633107412.wem	\Actor-Mixer Hierarchy\SpatialAudioDemo\RoomTone	
+	811519996	Dialogue	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\Voices\English(US)\Discussion_A81CD9DA.wem	811519996.wem	\Actor-Mixer Hierarchy\SpatialAudioDemo\Dialogue	
+

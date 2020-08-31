@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="300286939" Language="SFX">
+			<ShortName>Fuchsia Groove Loop 3 - 150 bpm.wav</ShortName>
+			<Path>SFX\Fuchsia Groove Loop 3 - 150 bpm_DE9B299B.wem</Path>
+		</File>
+		<File Id="305041158" Language="SFX">
+			<ShortName>14 Mr. Bill Kick.wav</ShortName>
+			<Path>SFX\14 Mr. Bill Kick_DE9B299B.wem</Path>
+		</File>
+		<File Id="334325659" Language="SFX">
+			<ShortName>Bluezone-Abyss-sound-003.wav</ShortName>
+			<Path>SFX\Bluezone-Abyss-sound-003_F00644E1.wem</Path>
+		</File>
+		<File Id="633107412" Language="SFX">
+			<ShortName>Ambience_40.wav</ShortName>
+			<Path>SFX\Ambience_40_E6B39AE9.wem</Path>
+		</File>
+		<File Id="663208621" Language="SFX">
+			<ShortName>Bluezone-Abyss-sound-002.wav</ShortName>
+			<Path>SFX\Bluezone-Abyss-sound-002_F00644E1.wem</Path>
+		</File>
+		<File Id="696056328" Language="SFX">
+			<ShortName>w24_windchimes_bell_pipe_short_heavy_01.wav</ShortName>
+			<Path>SFX\w24_windchimes_bell_pipe_short_heavy_01_1061C80D.wem</Path>
+		</File>
+		<File Id="705882551" Language="SFX">
+			<ShortName>Fuchsia 808y Loop 1 - 150 bpm.wav</ShortName>
+			<Path>SFX\Fuchsia 808y Loop 1 - 150 bpm_DE9B299B.wem</Path>
+		</File>
+		<File Id="724560588" Language="SFX">
+			<ShortName>13 Mr. Bill Kick.wav</ShortName>
+			<Path>SFX\13 Mr. Bill Kick_DE9B299B.wem</Path>
+		</File>
+		<File Id="768704286" Language="SFX">
+			<ShortName>Fuchsia Groove Loop 1 - 150 bpm.wav</ShortName>
+			<Path>SFX\Fuchsia Groove Loop 1 - 150 bpm_DE9B299B.wem</Path>
+		</File>
+		<File Id="811519996" Language="SFX">
+			<ShortName>Voices\English(US)\Discussion.wav</ShortName>
+			<Path>SFX\Voices\English(US)\Discussion_A81CD9DA.wem</Path>
+		</File>
+		<File Id="817007499" Language="SFX">
+			<ShortName>ClickSequence - 150 bpmr.wav</ShortName>
+			<Path>SFX\ClickSequence - 150 bpmr_DE9B299B.wem</Path>
+		</File>
+		<File Id="938860141" Language="SFX">
+			<ShortName>Bluezone-Abyss-sound-001.wav</ShortName>
+			<Path>SFX\Bluezone-Abyss-sound-001_F00644E1.wem</Path>
+		</File>
+		<File Id="948416753" Language="SFX">
+			<ShortName>Bluezone-Abyss-sound-004.wav</ShortName>
+			<Path>SFX\Bluezone-Abyss-sound-004_F00644E1.wem</Path>
+		</File>
+		<File Id="1065418406" Language="SFX">
+			<ShortName>Fuchsia Live Drum Cuts Loop - 150 bpm.wav</ShortName>
+			<Path>SFX\Fuchsia Live Drum Cuts Loop - 150 bpm_DE9B299B.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="187046019" Name="LargeRoom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\AuroHeadphone\Ambisonics\LargeRoom"/>
+				<AuxBus Id="758113725" Name="GlitchReceiver" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\AuroHeadphone\Ambisonics\GlitchReceiver"/>
+				<AuxBus Id="1701733687" Name="LargeRoom_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\PlainMusic\LargeRoom_01"/>
+				<AuxBus Id="2743004395" Name="SmallRoom_01" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\PlainMusic\SmallRoom_01"/>
+				<AuxBus Id="2763016207" Name="ThirdPerson" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\AuroHeadphone\Ambisonics\ThirdPerson"/>
+				<AuxBus Id="2872041301" Name="Microphone" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Test3DBus\Microphone"/>
+				<AuxBus Id="2933838247" Name="SmallRoom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\AuroHeadphone\Ambisonics\SmallRoom"/>
+				<AuxBus Id="3050928690" Name="BlueCave" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\AuroHeadphone\Ambisonics\BlueCave"/>
+				<AuxBus Id="3822919377" Name="RedCave" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\AuroHeadphone\Ambisonics\RedCave"/>
+			</IncludedAuxBusses>
+			<GameParameters>
+				<GameParameter Id="1528374776" Name="Global_Music" ObjectPath="\Game Parameters\Default Work Unit\Global_Music"/>
+				<GameParameter Id="2020009370" Name="GunEnv" ObjectPath="\Game Parameters\Default Work Unit\GunEnv"/>
+				<GameParameter Id="2392678948" Name="GlitchDetector" ObjectPath="\Game Parameters\Default Work Unit\GlitchDetector"/>
+				<GameParameter Id="2464033077" Name="GlitchSender" ObjectPath="\Game Parameters\Default Work Unit\GlitchSender"/>
+				<GameParameter Id="2943775016" Name="Global_Sound" ObjectPath="\Game Parameters\Default Work Unit\Global_Sound"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="3983943587" Name="MusicInsideOutside" ObjectPath="\States\Default Work Unit\MusicInsideOutside">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\MusicInsideOutside\None"/>
+						<State Id="3553349781" Name="Inside" ObjectPath="\States\Default Work Unit\MusicInsideOutside\Inside"/>
+						<State Id="438105790" Name="Outside" ObjectPath="\States\Default Work Unit\MusicInsideOutside\Outside"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="2090333616" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MemoryTestMedia</ObjectPath>
+			<ShortName>MemoryTestMedia</ShortName>
+			<Path>MemoryTestMedia.bnk</Path>
+			<IncludedMemoryFiles>
+				<File Id="460996307" Language="SFX">
+					<ShortName>w24_windchimes_bell_pipe_short_heavy_02.wav</ShortName>
+					<Path>SFX\w24_windchimes_bell_pipe_short_heavy_02_4612ECD6.wem</Path>
+				</File>
+				<File Id="543959926" Language="SFX">
+					<ShortName>w24_windchimes_bell_pipe_short_light_01.wav</ShortName>
+					<Path>SFX\w24_windchimes_bell_pipe_short_light_01_79A2B309.wem</Path>
+				</File>
+				<File Id="696056328" Language="SFX">
+					<ShortName>w24_windchimes_bell_pipe_short_heavy_01.wav</ShortName>
+					<Path>SFX\w24_windchimes_bell_pipe_short_heavy_01_1061C80D.wem</Path>
+					<PrefetchSize>5069</PrefetchSize>
+				</File>
+				<File Id="769829079" Language="SFX">
+					<ShortName>w24_windchimes_bell_pipe_short_heavy_03.wav</ShortName>
+					<Path>SFX\w24_windchimes_bell_pipe_short_heavy_03_BE9AC931.wem</Path>
+				</File>
+				<File Id="967777166" Language="SFX">
+					<ShortName>w24_windchimes_bell_pipe_short_light_02.wav</ShortName>
+					<Path>SFX\w24_windchimes_bell_pipe_short_light_02_E6F7203D.wem</Path>
+				</File>
+				<File Id="1062685393" Language="SFX">
+					<ShortName>w24_windchimes_bell_pipe_short_light_03.wav</ShortName>
+					<Path>SFX\w24_windchimes_bell_pipe_short_light_03_A303BC39.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<GameParameters>
+				<GameParameter Id="2020009370" Name="GunEnv" ObjectPath="\Game Parameters\Default Work Unit\GunEnv"/>
+				<GameParameter Id="2828409398" Name="DopplerParam" ObjectPath="\Game Parameters\Default Work Unit\DopplerParam"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="2239836107" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\MemoryTestStructure</ObjectPath>
+			<ShortName>MemoryTestStructure</ShortName>
+			<Path>MemoryTestStructure.bnk</Path>
+			<IncludedEvents>
+				<Event Id="383672487" Name="Play_Test3DBusEmitter" ObjectPath="\Events\Default Work Unit\Play_Test3DBusEmitter" MaxAttenuation="50.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="696056328" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_01.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_01_1061C80D.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<ExcludedMemoryFiles>
+						<File Id="460996307" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_02.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_02_4612ECD6.wem</Path>
+						</File>
+						<File Id="543959926" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_light_01.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_light_01_79A2B309.wem</Path>
+						</File>
+						<File Id="696056328" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_01.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_01_1061C80D.wem</Path>
+							<PrefetchSize>5069</PrefetchSize>
+						</File>
+						<File Id="769829079" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_03.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_03_BE9AC931.wem</Path>
+						</File>
+						<File Id="967777166" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_light_02.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_light_02_E6F7203D.wem</Path>
+						</File>
+						<File Id="1062685393" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_light_03.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_light_03_A303BC39.wem</Path>
+						</File>
+					</ExcludedMemoryFiles>
+				</Event>
+				<Event Id="872316793" Name="Stop_Test3DBusEmitter" ObjectPath="\Events\Default Work Unit\Stop_Test3DBusEmitter" MaxAttenuation="50.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="696056328" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_01.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_01_1061C80D.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<ExcludedMemoryFiles>
+						<File Id="460996307" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_02.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_02_4612ECD6.wem</Path>
+						</File>
+						<File Id="543959926" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_light_01.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_light_01_79A2B309.wem</Path>
+						</File>
+						<File Id="696056328" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_01.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_01_1061C80D.wem</Path>
+							<PrefetchSize>5069</PrefetchSize>
+						</File>
+						<File Id="769829079" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_heavy_03.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_heavy_03_BE9AC931.wem</Path>
+						</File>
+						<File Id="967777166" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_light_02.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_light_02_E6F7203D.wem</Path>
+						</File>
+						<File Id="1062685393" Language="SFX">
+							<ShortName>w24_windchimes_bell_pipe_short_light_03.wav</ShortName>
+							<Path>SFX\w24_windchimes_bell_pipe_short_light_03_A303BC39.wem</Path>
+						</File>
+					</ExcludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="2020009370" Name="GunEnv" ObjectPath="\Game Parameters\Default Work Unit\GunEnv"/>
+				<GameParameter Id="2828409398" Name="DopplerParam" ObjectPath="\Game Parameters\Default Work Unit\DopplerParam"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="2354093420" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Timeline</ObjectPath>
+			<ShortName>Timeline</ShortName>
+			<Path>Timeline.bnk</Path>
+			<IncludedEvents>
+				<Event Id="301909423" Name="PlayCubeMovement" ObjectPath="\Events\Default Work Unit\PlayCubeMovement" DurationType="OneShot" DurationMin="2.000000" DurationMax="2.000000"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2385628198" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Footsteps</ObjectPath>
+			<ShortName>Footsteps</ShortName>
+			<Path>Footsteps.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1866025847" Name="Footstep" ObjectPath="\Events\Default Work Unit\Footstep" DurationType="OneShot" DurationMin="0.226063" DurationMax="0.491701"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2820090000" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Subtitles</ObjectPath>
+			<ShortName>Subtitles</ShortName>
+			<Path>Subtitles.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3875076402" Name="PlaySubtitles" ObjectPath="\Events\Default Work Unit\PlaySubtitles" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="9.768979" DurationMax="9.768979"/>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3556213387" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SpatialAudio</ObjectPath>
+			<ShortName>SpatialAudio</ShortName>
+			<Path>SpatialAudio.bnk</Path>
+			<IncludedEvents>
+				<Event Id="676694472" Name="MachineGun_Off" ObjectPath="\Events\Default Work Unit\MachineGun_Off" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="275027026" Name="MachineGun_On" ObjectPath="\Events\Default Work Unit\MachineGun_On" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="106034287" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_F11D4301.wem</Path>
+						</File>
+						<File Id="206174554" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_52639434.wem</Path>
+						</File>
+						<File Id="220410905" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_F98461A6.wem</Path>
+						</File>
+						<File Id="237672681" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_AD6DA3E4.wem</Path>
+						</File>
+						<File Id="268770813" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_32CD93B5.wem</Path>
+						</File>
+						<File Id="520652971" Language="SFX">
+							<ShortName>8 Mr. Bill Perc.wav</ShortName>
+							<Path>SFX\8 Mr. Bill Perc_04E0FC10.wem</Path>
+						</File>
+						<File Id="640471314" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_6DC88940.wem</Path>
+						</File>
+						<File Id="645207913" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Single Tail.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Single Tail_107494D7.wem</Path>
+						</File>
+						<File Id="656446891" Language="SFX">
+							<ShortName>8 Mr. Bill Perc.wav</ShortName>
+							<Path>SFX\8 Mr. Bill Perc_2B863027.wem</Path>
+						</File>
+						<File Id="764970494" Language="SFX">
+							<ShortName>8 Mr. Bill Perc.wav</ShortName>
+							<Path>SFX\8 Mr. Bill Perc_2AE4805F.wem</Path>
+						</File>
+						<File Id="824423607" Language="SFX">
+							<ShortName>AWCK AR AK 47 Krinkov Auto Close 01.wav</ShortName>
+							<Path>SFX\AWCK AR AK 47 Krinkov Auto Close 01_43ADFA4D.wem</Path>
+						</File>
+						<File Id="1056528972" Language="SFX">
+							<ShortName>8 Mr. Bill Perc.wav</ShortName>
+							<Path>SFX\8 Mr. Bill Perc_C077CF5F.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{75AA9705-FD79-4A4C-82EE-B38D0D9EE40D}">
+							<Media>
+								<File Id="206174554"/>
+								<File Id="237672681"/>
+								<File Id="106034287"/>
+								<File Id="645207913"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1805398666" Name="Play_3DRoomToneTest" ObjectPath="\Events\Default Work Unit\Play_3DRoomToneTest" MaxAttenuation="5.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="855856110" Language="SFX">
+							<ShortName>testquad.wav</ShortName>
+							<Path>SFX\testquad_E6B39AE9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="531108731" Name="Play_DialogueLoop43DBus" ObjectPath="\Events\Default Work Unit\Play_DialogueLoop43DBus" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="905.982727" DurationMax="905.982727">
+					<ReferencedStreamedFiles>
+						<File Id="811519996" Language="SFX">
+							<ShortName>Voices\English(US)\Discussion.wav</ShortName>
+							<Path>SFX\Voices\English(US)\Discussion_A81CD9DA.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2341029961" Name="PlayDialogue" ObjectPath="\Events\Default Work Unit\PlayDialogue" MaxAttenuation="30.000000" DurationType="OneShot" DurationMin="905.982727" DurationMax="905.982727">
+					<ReferencedStreamedFiles>
+						<File Id="811519996" Language="SFX">
+							<ShortName>Voices\English(US)\Discussion.wav</ShortName>
+							<Path>SFX\Voices\English(US)\Discussion_A81CD9DA.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="2570281838" Name="PlayRoomTone" ObjectPath="\Events\Default Work Unit\PlayRoomTone" MaxAttenuation="20.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="633107412" Language="SFX">
+							<ShortName>Ambience_40.wav</ShortName>
+							<Path>SFX\Ambience_40_E6B39AE9.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="288905442" Name="Stop_Dialogue" ObjectPath="\Events\Default Work Unit\Stop_Dialogue" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<SwitchGroups>
+				<SwitchGroup Id="2180937177" Name="InOutRoom" ObjectPath="\Switches\Default Work Unit\InOutRoom">
+					<Switches>
+						<Switch Id="1752637612" Name="In" ObjectPath="\Switches\Default Work Unit\InOutRoom\In"/>
+						<Switch Id="645492555" Name="Out" ObjectPath="\Switches\Default Work Unit\InOutRoom\Out"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="3761286811" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Environments</ObjectPath>
+			<ShortName>Environments</ShortName>
+			<Path>Environments.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1562304622" Name="Play_Ambient" ObjectPath="\Events\Default Work Unit\Play_Ambient" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="334325659" Language="SFX">
+							<ShortName>Bluezone-Abyss-sound-003.wav</ShortName>
+							<Path>SFX\Bluezone-Abyss-sound-003_F00644E1.wem</Path>
+						</File>
+						<File Id="663208621" Language="SFX">
+							<ShortName>Bluezone-Abyss-sound-002.wav</ShortName>
+							<Path>SFX\Bluezone-Abyss-sound-002_F00644E1.wem</Path>
+						</File>
+						<File Id="938860141" Language="SFX">
+							<ShortName>Bluezone-Abyss-sound-001.wav</ShortName>
+							<Path>SFX\Bluezone-Abyss-sound-001_F00644E1.wem</Path>
+						</File>
+						<File Id="948416753" Language="SFX">
+							<ShortName>Bluezone-Abyss-sound-004.wav</ShortName>
+							<Path>SFX\Bluezone-Abyss-sound-004_F00644E1.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1227383577" Name="Play__musicCenter" ObjectPath="\Events\Default Work Unit\Play__musicCenter" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.750000" DurationMax="0.750000">
+					<IncludedMemoryFiles>
+						<File Id="535327143" Language="SFX">
+							<ShortName>4 Mr. Bill Kick.wav</ShortName>
+							<Path>SFX\4 Mr. Bill Kick_64263A15.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3051771425" Name="Play__musicLeft" ObjectPath="\Events\Default Work Unit\Play__musicLeft" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.250000" DurationMax="0.250000">
+					<IncludedMemoryFiles>
+						<File Id="143428265" Language="SFX">
+							<ShortName>IDM Glitch 1.wav</ShortName>
+							<Path>SFX\IDM Glitch 1_64263A15.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4041358484" Name="Play__musicRight" ObjectPath="\Events\Default Work Unit\Play__musicRight" MaxAttenuation="50.000000" DurationType="OneShot" DurationMin="0.500000" DurationMax="0.500000">
+					<IncludedMemoryFiles>
+						<File Id="389513357" Language="SFX">
+							<ShortName>Minimal Tech Pop 4.wav</ShortName>
+							<Path>SFX\Minimal Tech Pop 4_64263A15.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2394141991" Name="Play_SwitchMusic" ObjectPath="\Events\Default Work Unit\Play_SwitchMusic" MaxAttenuation="50.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="300286939" Language="SFX">
+							<ShortName>Fuchsia Groove Loop 3 - 150 bpm.wav</ShortName>
+							<Path>SFX\Fuchsia Groove Loop 3 - 150 bpm_DE9B299B.wem</Path>
+						</File>
+						<File Id="305041158" Language="SFX">
+							<ShortName>14 Mr. Bill Kick.wav</ShortName>
+							<Path>SFX\14 Mr. Bill Kick_DE9B299B.wem</Path>
+						</File>
+						<File Id="705882551" Language="SFX">
+							<ShortName>Fuchsia 808y Loop 1 - 150 bpm.wav</ShortName>
+							<Path>SFX\Fuchsia 808y Loop 1 - 150 bpm_DE9B299B.wem</Path>
+						</File>
+						<File Id="724560588" Language="SFX">
+							<ShortName>13 Mr. Bill Kick.wav</ShortName>
+							<Path>SFX\13 Mr. Bill Kick_DE9B299B.wem</Path>
+						</File>
+						<File Id="768704286" Language="SFX">
+							<ShortName>Fuchsia Groove Loop 1 - 150 bpm.wav</ShortName>
+							<Path>SFX\Fuchsia Groove Loop 1 - 150 bpm_DE9B299B.wem</Path>
+						</File>
+						<File Id="817007499" Language="SFX">
+							<ShortName>ClickSequence - 150 bpmr.wav</ShortName>
+							<Path>SFX\ClickSequence - 150 bpmr_DE9B299B.wem</Path>
+						</File>
+						<File Id="1065418406" Language="SFX">
+							<ShortName>Fuchsia Live Drum Cuts Loop - 150 bpm.wav</ShortName>
+							<Path>SFX\Fuchsia Live Drum Cuts Loop - 150 bpm_DE9B299B.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="9245412" Language="SFX">
+							<ShortName>4_4_part1_5.mid</ShortName>
+							<Path>SFX\4_4_part1_5_667D5F82.wmid</Path>
+						</File>
+						<File Id="11227917" Language="SFX">
+							<ShortName>Stinger_Area_01_13.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_13_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="16141191" Language="SFX">
+							<ShortName>4_4_Bass_12.mid</ShortName>
+							<Path>SFX\4_4_Bass_12_2B6DB931.wmid</Path>
+						</File>
+						<File Id="17529323" Language="SFX">
+							<ShortName>Piano_vH_F#2.wav</ShortName>
+							<Path>SFX\Piano_vH_F#2_3721C061.wem</Path>
+						</File>
+						<File Id="17966485" Language="SFX">
+							<ShortName>Piano_vH_F#4.wav</ShortName>
+							<Path>SFX\Piano_vH_F#4_3721C061.wem</Path>
+						</File>
+						<File Id="23653358" Language="SFX">
+							<ShortName>Stinger_Area_03_12.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_12_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="28829257" Language="SFX">
+							<ShortName>4_4_part1_4.mid</ShortName>
+							<Path>SFX\4_4_part1_4_42593334.wmid</Path>
+						</File>
+						<File Id="36633010" Language="SFX">
+							<ShortName>Piano_vL_C4.wav</ShortName>
+							<Path>SFX\Piano_vL_C4_3721C061.wem</Path>
+						</File>
+						<File Id="38848417" Language="SFX">
+							<ShortName>4_4_part2_15.mid</ShortName>
+							<Path>SFX\4_4_part2_15_1B6689F2.wmid</Path>
+						</File>
+						<File Id="43989849" Language="SFX">
+							<ShortName>4_4_part2_1.mid</ShortName>
+							<Path>SFX\4_4_part2_1_A6E7FC44.wmid</Path>
+						</File>
+						<File Id="45734000" Language="SFX">
+							<ShortName>4_4_part2_3.mid</ShortName>
+							<Path>SFX\4_4_part2_3_914355D3.wmid</Path>
+						</File>
+						<File Id="76158184" Language="SFX">
+							<ShortName>Piano_vH_F#3.wav</ShortName>
+							<Path>SFX\Piano_vH_F#3_3721C061.wem</Path>
+						</File>
+						<File Id="80802466" Language="SFX">
+							<ShortName>4_4_part2_7.mid</ShortName>
+							<Path>SFX\4_4_part2_7_1566AD5E.wmid</Path>
+						</File>
+						<File Id="96674882" Language="SFX">
+							<ShortName>Piano_vH_C2.wav</ShortName>
+							<Path>SFX\Piano_vH_C2_3721C061.wem</Path>
+						</File>
+						<File Id="103029641" Language="SFX">
+							<ShortName>4_4_Bass_11.mid</ShortName>
+							<Path>SFX\4_4_Bass_11_34A4E245.wmid</Path>
+						</File>
+						<File Id="105560038" Language="SFX">
+							<ShortName>4_4_part2_5.mid</ShortName>
+							<Path>SFX\4_4_part2_5_ADD03E89.wmid</Path>
+						</File>
+						<File Id="111560898" Language="SFX">
+							<ShortName>Piano_vL_F#1.wav</ShortName>
+							<Path>SFX\Piano_vL_F#1_3721C061.wem</Path>
+						</File>
+						<File Id="111619265" Language="SFX">
+							<ShortName>4_4_part2_0.mid</ShortName>
+							<Path>SFX\4_4_part2_0_3EA2A89B.wmid</Path>
+						</File>
+						<File Id="129930408" Language="SFX">
+							<ShortName>4_4_part2_14.mid</ShortName>
+							<Path>SFX\4_4_part2_14_1B6689F2.wmid</Path>
+						</File>
+						<File Id="133996472" Language="SFX">
+							<ShortName>Piano_vL_D#7.wav</ShortName>
+							<Path>SFX\Piano_vL_D#7_3721C061.wem</Path>
+						</File>
+						<File Id="146446212" Language="SFX">
+							<ShortName>Stinger_Area_02_6.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_6_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="150834610" Language="SFX">
+							<ShortName>Piano_vL_F#6.wav</ShortName>
+							<Path>SFX\Piano_vL_F#6_3721C061.wem</Path>
+						</File>
+						<File Id="153628082" Language="SFX">
+							<ShortName>4_4_part3_5.mid</ShortName>
+							<Path>SFX\4_4_part3_5_214AA147.wmid</Path>
+						</File>
+						<File Id="158427109" Language="SFX">
+							<ShortName>Piano_vL_D#5.wav</ShortName>
+							<Path>SFX\Piano_vL_D#5_3721C061.wem</Path>
+						</File>
+						<File Id="159671602" Language="SFX">
+							<ShortName>Stinger_Area_04_4.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_4_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="170323989" Language="SFX">
+							<ShortName>4_4_Bass_7.mid</ShortName>
+							<Path>SFX\4_4_Bass_7_D2D26CA4.wmid</Path>
+						</File>
+						<File Id="180198923" Language="SFX">
+							<ShortName>Piano_vH_C1.wav</ShortName>
+							<Path>SFX\Piano_vH_C1_3721C061.wem</Path>
+						</File>
+						<File Id="190283049" Language="SFX">
+							<ShortName>Stinger_Area_03_4.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_4_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="191726528" Language="SFX">
+							<ShortName>Piano_vL_A3.wav</ShortName>
+							<Path>SFX\Piano_vL_A3_3721C061.wem</Path>
+						</File>
+						<File Id="200203637" Language="SFX">
+							<ShortName>4_4_part1_15.mid</ShortName>
+							<Path>SFX\4_4_part1_15_36837A46.wmid</Path>
+						</File>
+						<File Id="206137115" Language="SFX">
+							<ShortName>4_4_part1_7.mid</ShortName>
+							<Path>SFX\4_4_part1_7_A7792F5C.wmid</Path>
+						</File>
+						<File Id="213630236" Language="SFX">
+							<ShortName>Piano_vH_A1.wav</ShortName>
+							<Path>SFX\Piano_vH_A1_3721C061.wem</Path>
+						</File>
+						<File Id="214028541" Language="SFX">
+							<ShortName>Stinger_Area_02_2.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_2_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="216777775" Language="SFX">
+							<ShortName>4_4_part1_2.mid</ShortName>
+							<Path>SFX\4_4_part1_2_C15415B6.wmid</Path>
+						</File>
+						<File Id="217183864" Language="SFX">
+							<ShortName>Piano_vL_F#7.wav</ShortName>
+							<Path>SFX\Piano_vL_F#7_3721C061.wem</Path>
+						</File>
+						<File Id="219229939" Language="SFX">
+							<ShortName>Stinger_Area_03_2.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_2_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="227739770" Language="SFX">
+							<ShortName>Piano_vH_B6.wav</ShortName>
+							<Path>SFX\Piano_vH_B6_3721C061.wem</Path>
+						</File>
+						<File Id="231390367" Language="SFX">
+							<ShortName>Piano_vH_D#1.wav</ShortName>
+							<Path>SFX\Piano_vH_D#1_3721C061.wem</Path>
+						</File>
+						<File Id="231952866" Language="SFX">
+							<ShortName>Piano_vH_A4.wav</ShortName>
+							<Path>SFX\Piano_vH_A4_3721C061.wem</Path>
+						</File>
+						<File Id="234109988" Language="SFX">
+							<ShortName>4_4_Bass_0.mid</ShortName>
+							<Path>SFX\4_4_Bass_0_02870144.wmid</Path>
+						</File>
+						<File Id="239472016" Language="SFX">
+							<ShortName>Piano_vH_A3.wav</ShortName>
+							<Path>SFX\Piano_vH_A3_3721C061.wem</Path>
+						</File>
+						<File Id="247325306" Language="SFX">
+							<ShortName>Stinger_Area_01_6.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_6_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="247553336" Language="SFX">
+							<ShortName>Stinger_Area_03_6.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_6_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="249967628" Language="SFX">
+							<ShortName>4_4_part2_2.mid</ShortName>
+							<Path>SFX\4_4_part2_2_A6E7FC44.wmid</Path>
+						</File>
+						<File Id="251650837" Language="SFX">
+							<ShortName>4_4_part1_10.mid</ShortName>
+							<Path>SFX\4_4_part1_10_139165B6.wmid</Path>
+						</File>
+						<File Id="251981015" Language="SFX">
+							<ShortName>Piano_vH_B1.wav</ShortName>
+							<Path>SFX\Piano_vH_B1_3721C061.wem</Path>
+						</File>
+						<File Id="252515165" Language="SFX">
+							<ShortName>Stinger_Area_02_1.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_1_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="258175862" Language="SFX">
+							<ShortName>Stinger_Area_04_1.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_1_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="263567542" Language="SFX">
+							<ShortName>Piano_vL_A6.wav</ShortName>
+							<Path>SFX\Piano_vL_A6_3721C061.wem</Path>
+						</File>
+						<File Id="269714158" Language="SFX">
+							<ShortName>4_4_part3_3.mid</ShortName>
+							<Path>SFX\4_4_part3_3_24981949.wmid</Path>
+						</File>
+						<File Id="272375039" Language="SFX">
+							<ShortName>Stinger_Area_01_7.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_7_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="276851558" Language="SFX">
+							<ShortName>Piano_vH_A7.wav</ShortName>
+							<Path>SFX\Piano_vH_A7_3721C061.wem</Path>
+						</File>
+						<File Id="289874944" Language="SFX">
+							<ShortName>Piano_vH_B5.wav</ShortName>
+							<Path>SFX\Piano_vH_B5_3721C061.wem</Path>
+						</File>
+						<File Id="318123653" Language="SFX">
+							<ShortName>4_4_part1_6.mid</ShortName>
+							<Path>SFX\4_4_part1_6_B52D3FD2.wmid</Path>
+						</File>
+						<File Id="328038588" Language="SFX">
+							<ShortName>Stinger_Area_04_2.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_2_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="328342745" Language="SFX">
+							<ShortName>Stinger_Area_01_5.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_5_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="332050347" Language="SFX">
+							<ShortName>4_4_Bass_3.mid</ShortName>
+							<Path>SFX\4_4_Bass_3_7D64B9A4.wmid</Path>
+						</File>
+						<File Id="332613117" Language="SFX">
+							<ShortName>4_4_part3_9.mid</ShortName>
+							<Path>SFX\4_4_part3_9_DB1D0DCF.wmid</Path>
+						</File>
+						<File Id="334026681" Language="SFX">
+							<ShortName>Piano_vL_F#4.wav</ShortName>
+							<Path>SFX\Piano_vL_F#4_3721C061.wem</Path>
+						</File>
+						<File Id="341645655" Language="SFX">
+							<ShortName>Stinger_Area_03_1.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_1_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="343072767" Language="SFX">
+							<ShortName>Piano_vL_D#2.wav</ShortName>
+							<Path>SFX\Piano_vL_D#2_3721C061.wem</Path>
+						</File>
+						<File Id="347072394" Language="SFX">
+							<ShortName>4_4_part2_13.mid</ShortName>
+							<Path>SFX\4_4_part2_13_0306A8A7.wmid</Path>
+						</File>
+						<File Id="348575680" Language="SFX">
+							<ShortName>Piano_vH_D#5.wav</ShortName>
+							<Path>SFX\Piano_vH_D#5_3721C061.wem</Path>
+						</File>
+						<File Id="358782122" Language="SFX">
+							<ShortName>Stinger_Area_04_5.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_5_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="364842296" Language="SFX">
+							<ShortName>4_4_Bass_15.mid</ShortName>
+							<Path>SFX\4_4_Bass_15_FFE1F907.wmid</Path>
+						</File>
+						<File Id="367169835" Language="SFX">
+							<ShortName>4_4_part4_8.mid</ShortName>
+							<Path>SFX\4_4_part4_8_BDF79F80.wmid</Path>
+						</File>
+						<File Id="382923278" Language="SFX">
+							<ShortName>4_4_part1_11.mid</ShortName>
+							<Path>SFX\4_4_part1_11_4C3A84D8.wmid</Path>
+						</File>
+						<File Id="386865071" Language="SFX">
+							<ShortName>Piano_vH_F#7.wav</ShortName>
+							<Path>SFX\Piano_vH_F#7_3721C061.wem</Path>
+						</File>
+						<File Id="395422441" Language="SFX">
+							<ShortName>Stinger_Area_04_3.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_3_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="397657890" Language="SFX">
+							<ShortName>Piano_vH_D#7.wav</ShortName>
+							<Path>SFX\Piano_vH_D#7_3721C061.wem</Path>
+						</File>
+						<File Id="399052716" Language="SFX">
+							<ShortName>Piano_vL_C3.wav</ShortName>
+							<Path>SFX\Piano_vL_C3_3721C061.wem</Path>
+						</File>
+						<File Id="401025954" Language="SFX">
+							<ShortName>4_4_part3_2.mid</ShortName>
+							<Path>SFX\4_4_part3_2_F934DBFB.wmid</Path>
+						</File>
+						<File Id="414552667" Language="SFX">
+							<ShortName>4_4_part3_0.mid</ShortName>
+							<Path>SFX\4_4_part3_0_B3867C63.wmid</Path>
+						</File>
+						<File Id="419119737" Language="SFX">
+							<ShortName>4_4_part2_9.mid</ShortName>
+							<Path>SFX\4_4_part2_9_DE09BBBA.wmid</Path>
+						</File>
+						<File Id="419680563" Language="SFX">
+							<ShortName>Stinger_Area_04_8.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_8_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="420922347" Language="SFX">
+							<ShortName>Piano_vH_D#4.wav</ShortName>
+							<Path>SFX\Piano_vH_D#4_3721C061.wem</Path>
+						</File>
+						<File Id="426589344" Language="SFX">
+							<ShortName>Stinger_Area_01_8.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_8_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="428932128" Language="SFX">
+							<ShortName>4_4_part3_7.mid</ShortName>
+							<Path>SFX\4_4_part3_7_F95BC16D.wmid</Path>
+						</File>
+						<File Id="430674296" Language="SFX">
+							<ShortName>Piano_vL_A7.wav</ShortName>
+							<Path>SFX\Piano_vL_A7_3721C061.wem</Path>
+						</File>
+						<File Id="439883939" Language="SFX">
+							<ShortName>Piano_vL_A4.wav</ShortName>
+							<Path>SFX\Piano_vL_A4_3721C061.wem</Path>
+						</File>
+						<File Id="440492361" Language="SFX">
+							<ShortName>Stinger_Area_02_5.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_5_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="442180962" Language="SFX">
+							<ShortName>Piano_vH_C3.wav</ShortName>
+							<Path>SFX\Piano_vH_C3_3721C061.wem</Path>
+						</File>
+						<File Id="443215367" Language="SFX">
+							<ShortName>4_4_part4_10.mid</ShortName>
+							<Path>SFX\4_4_part4_10_F094D5D7.wmid</Path>
+						</File>
+						<File Id="444174930" Language="SFX">
+							<ShortName>4_4_part3_6.mid</ShortName>
+							<Path>SFX\4_4_part3_6_77254841.wmid</Path>
+						</File>
+						<File Id="444682393" Language="SFX">
+							<ShortName>4_4_part2_6.mid</ShortName>
+							<Path>SFX\4_4_part2_6_8B43793F.wmid</Path>
+						</File>
+						<File Id="451804135" Language="SFX">
+							<ShortName>4_4_part2_12.mid</ShortName>
+							<Path>SFX\4_4_part2_12_914355D3.wmid</Path>
+						</File>
+						<File Id="454600751" Language="SFX">
+							<ShortName>Stinger_Area_01_2.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_2_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="458870705" Language="SFX">
+							<ShortName>Piano_vH_C8.wav</ShortName>
+							<Path>SFX\Piano_vH_C8_3721C061.wem</Path>
+						</File>
+						<File Id="460459145" Language="SFX">
+							<ShortName>Piano_vH_A0.wav</ShortName>
+							<Path>SFX\Piano_vH_A0_3721C061.wem</Path>
+						</File>
+						<File Id="465236605" Language="SFX">
+							<ShortName>4_4_Bass_1.mid</ShortName>
+							<Path>SFX\4_4_Bass_1_6B3A3FC8.wmid</Path>
+						</File>
+						<File Id="469069105" Language="SFX">
+							<ShortName>Piano_vH_D#3.wav</ShortName>
+							<Path>SFX\Piano_vH_D#3_3721C061.wem</Path>
+						</File>
+						<File Id="472528044" Language="SFX">
+							<ShortName>Stinger_Area_03_3.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_3_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="480246218" Language="SFX">
+							<ShortName>Piano_vH_B3.wav</ShortName>
+							<Path>SFX\Piano_vH_B3_3721C061.wem</Path>
+						</File>
+						<File Id="480544060" Language="SFX">
+							<ShortName>Stinger_Area_03_10.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_10_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="484360129" Language="SFX">
+							<ShortName>Piano_vH_F#1.wav</ShortName>
+							<Path>SFX\Piano_vH_F#1_3721C061.wem</Path>
+						</File>
+						<File Id="488774216" Language="SFX">
+							<ShortName>Stinger_Area_01_4.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_4_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="489197432" Language="SFX">
+							<ShortName>Piano_vL_C2.wav</ShortName>
+							<Path>SFX\Piano_vL_C2_3721C061.wem</Path>
+						</File>
+						<File Id="493946915" Language="SFX">
+							<ShortName>4_4_Bass_4.mid</ShortName>
+							<Path>SFX\4_4_Bass_4_EFE4E52F.wmid</Path>
+						</File>
+						<File Id="497341796" Language="SFX">
+							<ShortName>Stinger_Area_02_7.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_7_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="509607693" Language="SFX">
+							<ShortName>4_4_Bass_8.mid</ShortName>
+							<Path>SFX\4_4_Bass_8_2B6DB931.wmid</Path>
+						</File>
+						<File Id="512069450" Language="SFX">
+							<ShortName>Piano_vL_A1.wav</ShortName>
+							<Path>SFX\Piano_vL_A1_3721C061.wem</Path>
+						</File>
+						<File Id="529145193" Language="SFX">
+							<ShortName>4_4_part3_12.mid</ShortName>
+							<Path>SFX\4_4_part3_12_A4E0C48B.wmid</Path>
+						</File>
+						<File Id="530480303" Language="SFX">
+							<ShortName>Piano_vL_C7.wav</ShortName>
+							<Path>SFX\Piano_vL_C7_3721C061.wem</Path>
+						</File>
+						<File Id="532980616" Language="SFX">
+							<ShortName>Piano_vL_C1.wav</ShortName>
+							<Path>SFX\Piano_vL_C1_3721C061.wem</Path>
+						</File>
+						<File Id="546039248" Language="SFX">
+							<ShortName>Stinger_Area_01_9.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_9_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="547392493" Language="SFX">
+							<ShortName>4_4_part3_1.mid</ShortName>
+							<Path>SFX\4_4_part3_1_C8DC56DF.wmid</Path>
+						</File>
+						<File Id="586223035" Language="SFX">
+							<ShortName>Piano_vH_D#2.wav</ShortName>
+							<Path>SFX\Piano_vH_D#2_3721C061.wem</Path>
+						</File>
+						<File Id="589495263" Language="SFX">
+							<ShortName>4_4_Bass_10.mid</ShortName>
+							<Path>SFX\4_4_Bass_10_FFE1F907.wmid</Path>
+						</File>
+						<File Id="593937842" Language="SFX">
+							<ShortName>4_4_part3_4.mid</ShortName>
+							<Path>SFX\4_4_part3_4_E4D00F95.wmid</Path>
+						</File>
+						<File Id="601092081" Language="SFX">
+							<ShortName>4_4_Bass_9.mid</ShortName>
+							<Path>SFX\4_4_Bass_9_95E9E31E.wmid</Path>
+						</File>
+						<File Id="606221266" Language="SFX">
+							<ShortName>Piano_vH_B4.wav</ShortName>
+							<Path>SFX\Piano_vH_B4_3721C061.wem</Path>
+						</File>
+						<File Id="608129121" Language="SFX">
+							<ShortName>Stinger_Area_04_9.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_9_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="610867105" Language="SFX">
+							<ShortName>Piano_vL_C5.wav</ShortName>
+							<Path>SFX\Piano_vL_C5_3721C061.wem</Path>
+						</File>
+						<File Id="612316046" Language="SFX">
+							<ShortName>Piano_vL_F#5.wav</ShortName>
+							<Path>SFX\Piano_vL_F#5_3721C061.wem</Path>
+						</File>
+						<File Id="613007252" Language="SFX">
+							<ShortName>4_4_part4_4.mid</ShortName>
+							<Path>SFX\4_4_part4_4_ABA7A8B2.wmid</Path>
+						</File>
+						<File Id="614680113" Language="SFX">
+							<ShortName>4_4_Bass_14.mid</ShortName>
+							<Path>SFX\4_4_Bass_14_FFE1F907.wmid</Path>
+						</File>
+						<File Id="615452391" Language="SFX">
+							<ShortName>Piano_vH_F#5.wav</ShortName>
+							<Path>SFX\Piano_vH_F#5_3721C061.wem</Path>
+						</File>
+						<File Id="616624099" Language="SFX">
+							<ShortName>Stinger_Area_03_8.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_8_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="618948190" Language="SFX">
+							<ShortName>4_4_part1_8.mid</ShortName>
+							<Path>SFX\4_4_part1_8_B252C7F2.wmid</Path>
+						</File>
+						<File Id="623806390" Language="SFX">
+							<ShortName>Stinger_Area_01_10.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_10_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="631592501" Language="SFX">
+							<ShortName>4_4_part3_10.mid</ShortName>
+							<Path>SFX\4_4_part3_10_E4D00F95.wmid</Path>
+						</File>
+						<File Id="632808583" Language="SFX">
+							<ShortName>4_4_part3_11.mid</ShortName>
+							<Path>SFX\4_4_part3_11_F934DBFB.wmid</Path>
+						</File>
+						<File Id="645325449" Language="SFX">
+							<ShortName>4_4_part1_14.mid</ShortName>
+							<Path>SFX\4_4_part1_14_36837A46.wmid</Path>
+						</File>
+						<File Id="650240533" Language="SFX">
+							<ShortName>Stinger_Area_04_7.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_7_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="670832045" Language="SFX">
+							<ShortName>Stinger_Area_03_5.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_5_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="677279674" Language="SFX">
+							<ShortName>4_4_part1_1.mid</ShortName>
+							<Path>SFX\4_4_part1_1_3C02A13E.wmid</Path>
+						</File>
+						<File Id="678488125" Language="SFX">
+							<ShortName>Piano_vL_D#1.wav</ShortName>
+							<Path>SFX\Piano_vL_D#1_3721C061.wem</Path>
+						</File>
+						<File Id="695238259" Language="SFX">
+							<ShortName>4_4_part4_1.mid</ShortName>
+							<Path>SFX\4_4_part4_1_A0556D5D.wmid</Path>
+						</File>
+						<File Id="697054236" Language="SFX">
+							<ShortName>Piano_vH_C5.wav</ShortName>
+							<Path>SFX\Piano_vH_C5_3721C061.wem</Path>
+						</File>
+						<File Id="698957514" Language="SFX">
+							<ShortName>4_4_part4_6.mid</ShortName>
+							<Path>SFX\4_4_part4_6_DCAFAF18.wmid</Path>
+						</File>
+						<File Id="712323319" Language="SFX">
+							<ShortName>Piano_vH_F#6.wav</ShortName>
+							<Path>SFX\Piano_vH_F#6_3721C061.wem</Path>
+						</File>
+						<File Id="716455259" Language="SFX">
+							<ShortName>Piano_vL_D#3.wav</ShortName>
+							<Path>SFX\Piano_vL_D#3_3721C061.wem</Path>
+						</File>
+						<File Id="719709674" Language="SFX">
+							<ShortName>4_4_part4_2.mid</ShortName>
+							<Path>SFX\4_4_part4_2_7500E0F5.wmid</Path>
+						</File>
+						<File Id="721113131" Language="SFX">
+							<ShortName>4_4_part3_14.mid</ShortName>
+							<Path>SFX\4_4_part3_14_27DDB031.wmid</Path>
+						</File>
+						<File Id="730228321" Language="SFX">
+							<ShortName>Piano_vL_D#6.wav</ShortName>
+							<Path>SFX\Piano_vL_D#6_3721C061.wem</Path>
+						</File>
+						<File Id="730921357" Language="SFX">
+							<ShortName>Stinger_Area_01_11.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_11_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="744548601" Language="SFX">
+							<ShortName>Piano_vL_A0.wav</ShortName>
+							<Path>SFX\Piano_vL_A0_3721C061.wem</Path>
+						</File>
+						<File Id="747821519" Language="SFX">
+							<ShortName>Stinger_Area_04_6.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_6_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="748870121" Language="SFX">
+							<ShortName>Piano_vH_A5.wav</ShortName>
+							<Path>SFX\Piano_vH_A5_3721C061.wem</Path>
+						</File>
+						<File Id="756514800" Language="SFX">
+							<ShortName>Stinger_Area_03_9.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_9_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="767943822" Language="SFX">
+							<ShortName>Stinger_Area_01_3.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_3_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="777820829" Language="SFX">
+							<ShortName>Piano_vL_D#4.wav</ShortName>
+							<Path>SFX\Piano_vL_D#4_3721C061.wem</Path>
+						</File>
+						<File Id="786549940" Language="SFX">
+							<ShortName>4_4_part4_15.mid</ShortName>
+							<Path>SFX\4_4_part4_15_1FB0B7AA.wmid</Path>
+						</File>
+						<File Id="792619335" Language="SFX">
+							<ShortName>4_4_part2_8.mid</ShortName>
+							<Path>SFX\4_4_part2_8_ADD03E89.wmid</Path>
+						</File>
+						<File Id="796857251" Language="SFX">
+							<ShortName>4_4_part2_11.mid</ShortName>
+							<Path>SFX\4_4_part2_11_8B43793F.wmid</Path>
+						</File>
+						<File Id="800842280" Language="SFX">
+							<ShortName>Piano_vL_C8.wav</ShortName>
+							<Path>SFX\Piano_vL_C8_3721C061.wem</Path>
+						</File>
+						<File Id="819928939" Language="SFX">
+							<ShortName>4_4_part4_9.mid</ShortName>
+							<Path>SFX\4_4_part4_9_F094D5D7.wmid</Path>
+						</File>
+						<File Id="822393999" Language="SFX">
+							<ShortName>4_4_part4_11.mid</ShortName>
+							<Path>SFX\4_4_part4_11_1FB0B7AA.wmid</Path>
+						</File>
+						<File Id="823070171" Language="SFX">
+							<ShortName>Piano_vH_B7.wav</ShortName>
+							<Path>SFX\Piano_vH_B7_3721C061.wem</Path>
+						</File>
+						<File Id="823456379" Language="SFX">
+							<ShortName>Stinger_Area_02_4.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_4_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="823734166" Language="SFX">
+							<ShortName>Stinger_Area_01_0.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_0_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="826204394" Language="SFX">
+							<ShortName>4_4_part4_0.mid</ShortName>
+							<Path>SFX\4_4_part4_0_7500E0F5.wmid</Path>
+						</File>
+						<File Id="841947338" Language="SFX">
+							<ShortName>Stinger_Area_03_0.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_0_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="847133985" Language="SFX">
+							<ShortName>4_4_part4_14.mid</ShortName>
+							<Path>SFX\4_4_part4_14_1FB0B7AA.wmid</Path>
+						</File>
+						<File Id="855712506" Language="SFX">
+							<ShortName>Stinger_Area_03_13.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_13_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="858942095" Language="SFX">
+							<ShortName>4_4_part1_3.mid</ShortName>
+							<Path>SFX\4_4_part1_3_0D098DCC.wmid</Path>
+						</File>
+						<File Id="873879641" Language="SFX">
+							<ShortName>4_4_part4_5.mid</ShortName>
+							<Path>SFX\4_4_part4_5_F094D5D7.wmid</Path>
+						</File>
+						<File Id="890276210" Language="SFX">
+							<ShortName>4_4_Bass_5.mid</ShortName>
+							<Path>SFX\4_4_Bass_5_FFE1F907.wmid</Path>
+						</File>
+						<File Id="893485452" Language="SFX">
+							<ShortName>4_4_part2_10.mid</ShortName>
+							<Path>SFX\4_4_part2_10_96463030.wmid</Path>
+						</File>
+						<File Id="925485295" Language="SFX">
+							<ShortName>Piano_vH_B2.wav</ShortName>
+							<Path>SFX\Piano_vH_B2_3721C061.wem</Path>
+						</File>
+						<File Id="931942348" Language="SFX">
+							<ShortName>4_4_part3_15.mid</ShortName>
+							<Path>SFX\4_4_part3_15_27DDB031.wmid</Path>
+						</File>
+						<File Id="934096902" Language="SFX">
+							<ShortName>4_4_part3_13.mid</ShortName>
+							<Path>SFX\4_4_part3_13_77254841.wmid</Path>
+						</File>
+						<File Id="935764706" Language="SFX">
+							<ShortName>4_4_part1_12.mid</ShortName>
+							<Path>SFX\4_4_part1_12_E3943B20.wmid</Path>
+						</File>
+						<File Id="941624088" Language="SFX">
+							<ShortName>4_4_part1_0.mid</ShortName>
+							<Path>SFX\4_4_part1_0_C1B61A26.wmid</Path>
+						</File>
+						<File Id="944631465" Language="SFX">
+							<ShortName>Piano_vL_A5.wav</ShortName>
+							<Path>SFX\Piano_vL_A5_3721C061.wem</Path>
+						</File>
+						<File Id="950142108" Language="SFX">
+							<ShortName>Piano_vH_B0.wav</ShortName>
+							<Path>SFX\Piano_vH_B0_3721C061.wem</Path>
+						</File>
+						<File Id="957711871" Language="SFX">
+							<ShortName>Piano_vH_C6.wav</ShortName>
+							<Path>SFX\Piano_vH_C6_3721C061.wem</Path>
+						</File>
+						<File Id="959836716" Language="SFX">
+							<ShortName>Piano_vH_C7.wav</ShortName>
+							<Path>SFX\Piano_vH_C7_3721C061.wem</Path>
+						</File>
+						<File Id="960418641" Language="SFX">
+							<ShortName>Piano_vL_A2.wav</ShortName>
+							<Path>SFX\Piano_vL_A2_3721C061.wem</Path>
+						</File>
+						<File Id="965187576" Language="SFX">
+							<ShortName>Stinger_Area_01_1.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_1_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="965771830" Language="SFX">
+							<ShortName>Piano_vL_F#2.wav</ShortName>
+							<Path>SFX\Piano_vL_F#2_3721C061.wem</Path>
+						</File>
+						<File Id="968786290" Language="SFX">
+							<ShortName>4_4_part4_3.mid</ShortName>
+							<Path>SFX\4_4_part4_3_F7E85CFE.wmid</Path>
+						</File>
+						<File Id="969948837" Language="SFX">
+							<ShortName>Stinger_Area_02_0.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_0_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="972392303" Language="SFX">
+							<ShortName>4_4_part1_13.mid</ShortName>
+							<Path>SFX\4_4_part1_13_54951AC2.wmid</Path>
+						</File>
+						<File Id="974353553" Language="SFX">
+							<ShortName>4_4_Bass_2.mid</ShortName>
+							<Path>SFX\4_4_Bass_2_2B6DB931.wmid</Path>
+						</File>
+						<File Id="981186867" Language="SFX">
+							<ShortName>Stinger_Area_04_0.mid</ShortName>
+							<Path>SFX\Stinger_Area_04_0_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="1000907603" Language="SFX">
+							<ShortName>4_4_part4_7.mid</ShortName>
+							<Path>SFX\4_4_part4_7_F6A644E6.wmid</Path>
+						</File>
+						<File Id="1002129475" Language="SFX">
+							<ShortName>Stinger_Area_01_12.mid</ShortName>
+							<Path>SFX\Stinger_Area_01_12_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="1003995762" Language="SFX">
+							<ShortName>Piano_vL_F#3.wav</ShortName>
+							<Path>SFX\Piano_vL_F#3_3721C061.wem</Path>
+						</File>
+						<File Id="1012470727" Language="SFX">
+							<ShortName>4_4_part1_9.mid</ShortName>
+							<Path>SFX\4_4_part1_9_DF5D6204.wmid</Path>
+						</File>
+						<File Id="1014422327" Language="SFX">
+							<ShortName>4_4_Bass_6.mid</ShortName>
+							<Path>SFX\4_4_Bass_6_95E9E31E.wmid</Path>
+						</File>
+						<File Id="1014798395" Language="SFX">
+							<ShortName>4_4_part3_8.mid</ShortName>
+							<Path>SFX\4_4_part3_8_709E7FD3.wmid</Path>
+						</File>
+						<File Id="1014873935" Language="SFX">
+							<ShortName>4_4_part4_12.mid</ShortName>
+							<Path>SFX\4_4_part4_12_F9A00DD3.wmid</Path>
+						</File>
+						<File Id="1024680642" Language="SFX">
+							<ShortName>Piano_vH_A6.wav</ShortName>
+							<Path>SFX\Piano_vH_A6_3721C061.wem</Path>
+						</File>
+						<File Id="1028876431" Language="SFX">
+							<ShortName>Piano_vH_D#6.wav</ShortName>
+							<Path>SFX\Piano_vH_D#6_3721C061.wem</Path>
+						</File>
+						<File Id="1032378315" Language="SFX">
+							<ShortName>Stinger_Area_02_3.mid</ShortName>
+							<Path>SFX\Stinger_Area_02_3_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="1036141639" Language="SFX">
+							<ShortName>4_4_part4_13.mid</ShortName>
+							<Path>SFX\4_4_part4_13_A0556D5D.wmid</Path>
+						</File>
+						<File Id="1041338703" Language="SFX">
+							<ShortName>Stinger_Area_03_11.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_11_5C4AE33C.wmid</Path>
+						</File>
+						<File Id="1041745782" Language="SFX">
+							<ShortName>4_4_Bass_13.mid</ShortName>
+							<Path>SFX\4_4_Bass_13_34A4E245.wmid</Path>
+						</File>
+						<File Id="1043074864" Language="SFX">
+							<ShortName>Piano_vL_C6.wav</ShortName>
+							<Path>SFX\Piano_vL_C6_3721C061.wem</Path>
+						</File>
+						<File Id="1047396706" Language="SFX">
+							<ShortName>4_4_part2_4.mid</ShortName>
+							<Path>SFX\4_4_part2_4_1566AD5E.wmid</Path>
+						</File>
+						<File Id="1058392920" Language="SFX">
+							<ShortName>Stinger_Area_03_7.mid</ShortName>
+							<Path>SFX\Stinger_Area_03_7_5C4AE33C.wmid</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{ABACBE3F-D20E-479C-9600-FEA18810885C}">
+							<Media>
+								<File Id="705882551"/>
+								<File Id="305041158"/>
+								<File Id="941624088"/>
+								<File Id="677279674"/>
+								<File Id="216777775"/>
+								<File Id="858942095"/>
+								<File Id="28829257"/>
+								<File Id="9245412"/>
+								<File Id="318123653"/>
+								<File Id="206137115"/>
+								<File Id="618948190"/>
+								<File Id="1012470727"/>
+								<File Id="251650837"/>
+								<File Id="382923278"/>
+								<File Id="935764706"/>
+								<File Id="972392303"/>
+								<File Id="645325449"/>
+								<File Id="200203637"/>
+								<File Id="234109988"/>
+								<File Id="465236605"/>
+								<File Id="974353553"/>
+								<File Id="332050347"/>
+								<File Id="493946915"/>
+								<File Id="890276210"/>
+								<File Id="1014422327"/>
+								<File Id="170323989"/>
+								<File Id="509607693"/>
+								<File Id="601092081"/>
+								<File Id="589495263"/>
+								<File Id="103029641"/>
+								<File Id="16141191"/>
+								<File Id="1041745782"/>
+								<File Id="614680113"/>
+								<File Id="364842296"/>
+							</Media>
+							<Children>
+								<SwitchContainer SwitchValue="{696D1DC9-AC6C-4397-A95E-910E6CD6637D}">
+									<Media>
+										<File Id="460459145"/>
+										<File Id="213630236"/>
+										<File Id="239472016"/>
+										<File Id="231952866"/>
+										<File Id="748870121"/>
+										<File Id="1024680642"/>
+										<File Id="276851558"/>
+										<File Id="950142108"/>
+										<File Id="251981015"/>
+										<File Id="925485295"/>
+										<File Id="480246218"/>
+										<File Id="606221266"/>
+										<File Id="289874944"/>
+										<File Id="227739770"/>
+										<File Id="823070171"/>
+										<File Id="180198923"/>
+										<File Id="96674882"/>
+										<File Id="442180962"/>
+										<File Id="697054236"/>
+										<File Id="957711871"/>
+										<File Id="959836716"/>
+										<File Id="458870705"/>
+										<File Id="231390367"/>
+										<File Id="586223035"/>
+										<File Id="469069105"/>
+										<File Id="420922347"/>
+										<File Id="348575680"/>
+										<File Id="1028876431"/>
+										<File Id="397657890"/>
+										<File Id="484360129"/>
+										<File Id="17529323"/>
+										<File Id="76158184"/>
+										<File Id="17966485"/>
+										<File Id="615452391"/>
+										<File Id="712323319"/>
+										<File Id="386865071"/>
+										<File Id="744548601"/>
+										<File Id="512069450"/>
+										<File Id="960418641"/>
+										<File Id="191726528"/>
+										<File Id="439883939"/>
+										<File Id="944631465"/>
+										<File Id="263567542"/>
+										<File Id="430674296"/>
+										<File Id="532980616"/>
+										<File Id="489197432"/>
+										<File Id="399052716"/>
+										<File Id="36633010"/>
+										<File Id="610867105"/>
+										<File Id="1043074864"/>
+										<File Id="530480303"/>
+										<File Id="800842280"/>
+										<File Id="678488125"/>
+										<File Id="343072767"/>
+										<File Id="716455259"/>
+										<File Id="777820829"/>
+										<File Id="158427109"/>
+										<File Id="730228321"/>
+										<File Id="133996472"/>
+										<File Id="111560898"/>
+										<File Id="965771830"/>
+										<File Id="1003995762"/>
+										<File Id="334026681"/>
+										<File Id="612316046"/>
+										<File Id="150834610"/>
+										<File Id="217183864"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{18AF7EB7-4547-4C06-A44B-47E804E306C7}">
+							<Media>
+								<File Id="724560588"/>
+								<File Id="724560588"/>
+								<File Id="724560588"/>
+								<File Id="724560588"/>
+								<File Id="817007499"/>
+								<File Id="111619265"/>
+								<File Id="43989849"/>
+								<File Id="249967628"/>
+								<File Id="45734000"/>
+								<File Id="1047396706"/>
+								<File Id="105560038"/>
+								<File Id="444682393"/>
+								<File Id="80802466"/>
+								<File Id="792619335"/>
+								<File Id="419119737"/>
+								<File Id="893485452"/>
+								<File Id="796857251"/>
+								<File Id="451804135"/>
+								<File Id="347072394"/>
+								<File Id="129930408"/>
+								<File Id="38848417"/>
+								<File Id="234109988"/>
+								<File Id="465236605"/>
+								<File Id="974353553"/>
+								<File Id="332050347"/>
+								<File Id="493946915"/>
+								<File Id="890276210"/>
+								<File Id="1014422327"/>
+								<File Id="170323989"/>
+								<File Id="509607693"/>
+								<File Id="601092081"/>
+								<File Id="589495263"/>
+								<File Id="103029641"/>
+								<File Id="16141191"/>
+								<File Id="1041745782"/>
+								<File Id="614680113"/>
+								<File Id="364842296"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{05C3610A-12E2-4D12-9DE2-224FB2063EE5}">
+							<Media>
+								<File Id="724560588"/>
+								<File Id="724560588"/>
+								<File Id="724560588"/>
+								<File Id="724560588"/>
+								<File Id="768704286"/>
+								<File Id="414552667"/>
+								<File Id="547392493"/>
+								<File Id="401025954"/>
+								<File Id="269714158"/>
+								<File Id="593937842"/>
+								<File Id="153628082"/>
+								<File Id="444174930"/>
+								<File Id="428932128"/>
+								<File Id="1014798395"/>
+								<File Id="332613117"/>
+								<File Id="631592501"/>
+								<File Id="632808583"/>
+								<File Id="529145193"/>
+								<File Id="934096902"/>
+								<File Id="721113131"/>
+								<File Id="931942348"/>
+								<File Id="234109988"/>
+								<File Id="465236605"/>
+								<File Id="974353553"/>
+								<File Id="332050347"/>
+								<File Id="493946915"/>
+								<File Id="890276210"/>
+								<File Id="1014422327"/>
+								<File Id="170323989"/>
+								<File Id="509607693"/>
+								<File Id="601092081"/>
+								<File Id="589495263"/>
+								<File Id="103029641"/>
+								<File Id="16141191"/>
+								<File Id="1041745782"/>
+								<File Id="614680113"/>
+								<File Id="364842296"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{5FCF0AE3-A021-47DA-A664-83881B71BB62}">
+							<Media>
+								<File Id="1065418406"/>
+								<File Id="300286939"/>
+								<File Id="826204394"/>
+								<File Id="695238259"/>
+								<File Id="719709674"/>
+								<File Id="968786290"/>
+								<File Id="613007252"/>
+								<File Id="873879641"/>
+								<File Id="698957514"/>
+								<File Id="1000907603"/>
+								<File Id="367169835"/>
+								<File Id="819928939"/>
+								<File Id="443215367"/>
+								<File Id="822393999"/>
+								<File Id="1014873935"/>
+								<File Id="1036141639"/>
+								<File Id="847133985"/>
+								<File Id="786549940"/>
+								<File Id="234109988"/>
+								<File Id="465236605"/>
+								<File Id="974353553"/>
+								<File Id="332050347"/>
+								<File Id="493946915"/>
+								<File Id="890276210"/>
+								<File Id="1014422327"/>
+								<File Id="170323989"/>
+								<File Id="509607693"/>
+								<File Id="601092081"/>
+								<File Id="589495263"/>
+								<File Id="103029641"/>
+								<File Id="16141191"/>
+								<File Id="1041745782"/>
+								<File Id="614680113"/>
+								<File Id="364842296"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="2125786037" Name="Stop_SwitchMusic" ObjectPath="\Events\Default Work Unit\Stop_SwitchMusic" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="129" Name="MIDI note velocity" ObjectPath="MIDI\MIDI note velocity"/>
+				<GameParameter Id="2020009370" Name="GunEnv" ObjectPath="\Game Parameters\Default Work Unit\GunEnv"/>
+				<GameParameter Id="2107299316" Name="_playbackSpeed" ObjectPath="\Game Parameters\Default Work Unit\_playbackSpeed"/>
+				<GameParameter Id="2464033077" Name="GlitchSender" ObjectPath="\Game Parameters\Default Work Unit\GlitchSender"/>
+				<GameParameter Id="3209630054" Name="Area04_SusLv" ObjectPath="\Game Parameters\Default Work Unit\Area04_SusLv"/>
+				<GameParameter Id="3217222474" Name="Area04_AtkTime" ObjectPath="\Game Parameters\Default Work Unit\Area04_AtkTime"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="2268458631" Name="DemoArea" ObjectPath="\States\Default Work Unit\DemoArea">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\DemoArea\None"/>
+						<State Id="237836244" Name="Area_01" ObjectPath="\States\Default Work Unit\DemoArea\Area_01"/>
+						<State Id="237836247" Name="Area_02" ObjectPath="\States\Default Work Unit\DemoArea\Area_02"/>
+						<State Id="237836246" Name="Area_03" ObjectPath="\States\Default Work Unit\DemoArea\Area_03"/>
+						<State Id="237836241" Name="Area_04" ObjectPath="\States\Default Work Unit\DemoArea\Area_04"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="2059144049" Name="Chiptune" ObjectPath="\Switches\Default Work Unit\Chiptune">
+					<Switches>
+						<Switch Id="1651971902" Name="On" ObjectPath="\Switches\Default Work Unit\Chiptune\On"/>
+						<Switch Id="930712164" Name="Off" ObjectPath="\Switches\Default Work Unit\Chiptune\Off"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+			<Triggers>
+				<Trigger Id="1724802434" Name="Stinger_Area_04" ObjectPath="\Triggers\Default Work Unit\Stinger_Area_04"/>
+				<Trigger Id="1724802436" Name="Stinger_Area_02" ObjectPath="\Triggers\Default Work Unit\Stinger_Area_02"/>
+				<Trigger Id="1724802437" Name="Stinger_Area_03" ObjectPath="\Triggers\Default Work Unit\Stinger_Area_03"/>
+				<Trigger Id="1724802439" Name="Stinger_Area_01" ObjectPath="\Triggers\Default Work Unit\Stinger_Area_01"/>
+			</Triggers>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3660193989	PlayImpact			\Default Work Unit\PlayImpact	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	652817804	imp_axe_stone_04	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\imp_axe_stone_04_CC87FBFB.wem		\Actor-Mixer Hierarchy\EnvironmentDemo\imp_axe_stone_04		30732
+

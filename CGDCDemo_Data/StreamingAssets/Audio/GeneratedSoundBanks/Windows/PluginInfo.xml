@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="WwiseProject" Platform="Windows" BasePlatform="Windows">
+	<Plugins>
+		<Plugin Name="Wwise Sine" ID="6553602" DLL="AkSineTone"/>
+		<Plugin Name="Wwise Silence" ID="6619138" DLL="AkSilenceGenerator"/>
+		<Plugin Name="McDSP ML1" ID="6754307" DLL="McDSP"/>
+		<Plugin Name="Wwise Delay" ID="6946819" DLL="AkDelay"/>
+		<Plugin Name="Wwise Compressor" ID="7077891" DLL="AkCompressor"/>
+		<Plugin Name="Wwise Matrix Reverb" ID="7536643" DLL="AkMatrixReverb"/>
+		<Plugin Name="Wwise RoomVerb" ID="7733251" DLL="AkRoomVerb"/>
+		<Plugin Name="Wwise Guitar Distortion" ID="8257539" DLL="AkGuitarDistortion"/>
+		<Plugin Name="Wwise Meter" ID="8454147" DLL="AkSoundEngineDLL"/>
+		<Plugin Name="Wwise Pitch Shifter" ID="8912899" DLL="AkPitchShifter"/>
+		<Plugin Name="Wwise Synth One" ID="9699330" DLL="AkSynthOne"/>
+		<Plugin Name="Wwise Reflect" ID="11206659" DLL="AkReflect"/>
+		<Plugin Name="System" ID="11403271" DLL="DefaultSink"/>
+		<Plugin Name="Communication" ID="11534343" DLL="DefaultSink"/>
+		<Plugin Name="Controller Headphones" ID="11599879" DLL="DefaultSink"/>
+		<Plugin Name="Controller Speaker" ID="11730951" DLL="DefaultSink"/>
+		<Plugin Name="Auxiliary" ID="11796487" DLL="DefaultSink"/>
+		<Plugin Name="No Output" ID="11862023" DLL="DefaultSink"/>
+		<Plugin Name="Auro Headphone" ID="72093811" DLL="Auro"/>
+		<Plugin Name="objfft" ID="1552024579" DLL="HV_objfft_WwiseFXPlugin"/>
+		<Plugin Name="heavy" ID="2097021955" DLL="HV_heavy_WwiseFXPlugin"/>
+	</Plugins>
+</PluginInfo>

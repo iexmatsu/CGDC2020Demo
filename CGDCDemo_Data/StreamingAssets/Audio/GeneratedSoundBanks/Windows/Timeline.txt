@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	301909423	PlayCubeMovement			\Default Work Unit\PlayCubeMovement	
+

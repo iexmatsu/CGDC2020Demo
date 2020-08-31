@@ -1,0 +1,60 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	4048038640	Layer			\Default Work Unit\Layer	
+
+Switch	ID	Name	Switch Group			Notes
+	1126787300	Layer_03	Layer			
+	1126787301	Layer_02	Layer			
+	1126787302	Layer_01	Layer			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3729505769	TimeOfDay			\Default Work Unit\TimeOfDay	
+
+State	ID	Name	State Group			Notes
+	311764537	Day	TimeOfDay			
+	748895195	None	TimeOfDay			
+	1011622525	Night	TimeOfDay			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	504532776	Brick			\Factory Reflect Acoustic Textures\Textures\Brick	
+	513139656	Mountain			\Factory Reflect Acoustic Textures\Textures\Mountain	
+	841620460	Concrete			\Factory Reflect Acoustic Textures\Textures\Concrete	
+	1755085759	Wood_Deep			\Factory Reflect Acoustic Textures\Textures\Wood_Deep	
+	1873957695	Anechoic			\Factory Reflect Acoustic Textures\Textures\Anechoic	
+	1970351858	Fabric			\Factory Reflect Acoustic Textures\Textures\Fabric	
+	2058049674	Wood			\Factory Reflect Acoustic Textures\Textures\Wood	
+	2412606308	Carpet			\Factory Reflect Acoustic Textures\Textures\Carpet	
+	2637588553	Tile			\Factory Reflect Acoustic Textures\Textures\Tile	
+	2928161104	Curtains			\Factory Reflect Acoustic Textures\Textures\Curtains	
+	3195498748	Cork_Tiles			\Factory Reflect Acoustic Textures\Textures\Cork_Tiles	
+	3670307564	Drywall			\Factory Reflect Acoustic Textures\Textures\Drywall	
+	4168643977	Acoustic_Banner			\Factory Reflect Acoustic Textures\Textures\Acoustic_Banner	
+	4262522749	Wood_Bright			\Factory Reflect Acoustic Textures\Textures\Wood_Bright	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	617528822	Test3DBus			\Default Work Unit\Master Audio Bus\Ambisonics\Test3DBus	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	2903397179	Ambisonics			\Default Work Unit\Master Audio Bus\Ambisonics	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	187046019	LargeRoom			\Default Work Unit\Master Audio Bus\Ambisonics\LargeRoom	
+	2763016207	ThirdPerson			\Default Work Unit\Master Audio Bus\Ambisonics\ThirdPerson	
+	2872041301	Microphone			\Default Work Unit\Master Audio Bus\Ambisonics\Test3DBus\Microphone	
+	2933838247	SmallRoom			\Default Work Unit\Master Audio Bus\Ambisonics\SmallRoom	
+	3050928690	BlueCave			\Default Work Unit\Master Audio Bus\Ambisonics\BlueCave	
+	3822919377	RedCave			\Default Work Unit\Master Audio Bus\Ambisonics\RedCave	
+
+Effect plug-ins	ID	Name	Type				Notes
+	204059314	McDSP ML1 (Custom)	McDSP ML1			
+	241690414	Wwise_Guitar_Distortion_(Custom)	Wwise Guitar Distortion			
+	750935285	Auro_Headphone_(Custom)	Auro Headphone			
+	1588715066	Echoes_Linear	Wwise Delay			
+	1904434771	Medium_Room1	Wwise Matrix Reverb			
+	1958819083	SpatialAudio_Room_Medium	Wwise RoomVerb			When using RoomVerb with Spatial Audio rooms, we generatlly want to disable both early reflections (they wil be handled by Reflect) and the dry output (it is handled by the direct path)
+	2120793899	SpatialAudio_Room_Small	Wwise RoomVerb			When using RoomVerb with Spatial Audio rooms, we generatlly want to disable both early reflections (they wil be handled by Reflect) and the dry output (it is handled by the direct path)
+	2763016207	ThirdPerson	Wwise Reflect			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

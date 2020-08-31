@@ -1,0 +1,57 @@
+Event	ID	Name			Wwise Object Path	Notes
+	275027026	MachineGun_On			\Default Work Unit\MachineGun_On	
+	383672487	Play_Test3DBusEmitter			\Default Work Unit\Play_Test3DBusEmitter	
+	676694472	MachineGun_Off			\Default Work Unit\MachineGun_Off	
+	872316793	Stop_Test3DBusEmitter			\Default Work Unit\Stop_Test3DBusEmitter	
+	1441912848	Play_Playlist			\Default Work Unit\Play_Playlist	
+	1483003980	Play_TestLoop			\Default Work Unit\Play_TestLoop	
+	2063165418	Play_Beep			\Default Work Unit\Play_Beep	
+	2341029961	PlayDialogue			\Default Work Unit\PlayDialogue	
+	2570281838	PlayRoomTone			\Default Work Unit\PlayRoomTone	
+	3481958196	Play_Playlist_Music			\Default Work Unit\Play_Playlist_Music	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	640949982	Speed			\Default Work Unit\Speed	
+	864145949	LPF			\Default Work Unit\LPF	
+	2828409398	DopplerParam			\Default Work Unit\DopplerParam	
+	3072701325	HeartRate			\Default Work Unit\HeartRate	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	908095475	Modulator LFO (Custom)				
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	215990793	Modulator Envelope (Custom)				
+	281569149	Modulator Envelope (Custom)				
+	879227373	Modulator Envelope (Custom)				
+	1064101194	Modulator Envelope (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	90156707	Wwise_Stereo_Delay_(Custom)	Wwise Stereo Delay			
+	668687079	Wwise_Time_Stretch_(Custom)	Wwise Time Stretch			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	62865476	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_01\Punch\Wwise Sine	
+	256419050	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_04\Punch\Wwise Sine	
+	264386183	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\Beep\Wwise Sine	
+	270797685	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\TestLoop\Wwise Silence	
+	349049155	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_03\Punch\Wwise Sine	
+	1022826997	Wwise Sine	Wwise Sine		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_02\Punch\Wwise Sine	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	51095565	Source_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\Bluezone-Chillz-drum-loop-003-100_E6B39AE9.wem		\Interactive Music Hierarchy\Default Work Unit\Playlist_Music\Container\Source_01		846788
+	51120730	Dialogue	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\Voices\English(US)\Discussion_C4D3D1E9.wem		\Actor-Mixer Hierarchy\SpatialAudioDemo\Dialogue		955839
+	93359877	Source_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\Bluezone-Chillz-drum-loop-001-100_E6B39AE9.wem		\Interactive Music Hierarchy\Default Work Unit\Playlist_Music\Container\Source_01		846788
+	106034287	Tail_03	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Single Tail_F8D5AC1F.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Tails\Tail_03		503264
+	206174554	Tail_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Single Tail_04F2D6DD.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Tails\Tail_01		252808
+	220410905	Shoot_04	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Auto Close 01_16F0134E.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_04\Shoot_04		19520
+	237672681	Tail_02	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Single Tail_A99A0283.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Tails\Tail_02		380608
+	261823756	Test3DBusEmitter	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\SF-DS Energy Power 04 Off Medium_700CC527.wem		\Actor-Mixer Hierarchy\Default Work Unit\Random\Test3DBusEmitter		198864
+	268770813	Shoot_03	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Auto Close 01_113C92F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_03\Shoot_03		19220
+	314637647	Source_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\Bluezone-Chillz-drum-loop-002-100_E6B39AE9.wem		\Interactive Music Hierarchy\Default Work Unit\Playlist_Music\Container\Source_01		846788
+	633107412	RoomTone	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\Ambience_40_E6B39AE9.wem		\Actor-Mixer Hierarchy\SpatialAudioDemo\RoomTone		1835072
+	640471314	Shoot_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Auto Close 01_BDBF6214.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_01\Shoot_01		19576
+	645207913	Tail_04	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Single Tail_090FFA5B.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Tails\Tail_04		442336
+	656446891	HitMark	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\8 Mr. Bill Perc_4A86974D.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_01\HitMark		10808
+	824423607	Shoot_02	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\AWCK AR AK 47 Krinkov Auto Close 01_BF7B2A52.wem		\Actor-Mixer Hierarchy\Default Work Unit\MachineGun\Shoots\Mix_02\Shoot_02		19024
+

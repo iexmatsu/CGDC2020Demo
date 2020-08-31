@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	383672487	Play_Test3DBusEmitter			\Default Work Unit\Play_Test3DBusEmitter	
+	872316793	Stop_Test3DBusEmitter			\Default Work Unit\Stop_Test3DBusEmitter	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2020009370	GunEnv			\Default Work Unit\GunEnv	
+	2828409398	DopplerParam			\Default Work Unit\DopplerParam	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	696056328	w24_windchimes_bell_pipe_short_heavy_01	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\w24_windchimes_bell_pipe_short_heavy_01_1061C80D.wem	696056328.wem	\Actor-Mixer Hierarchy\Default Work Unit\Random\w24_windchimes_bell_pipe_short_heavy_01	
+

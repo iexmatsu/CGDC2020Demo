@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3875076402	PlaySubtitles			\Default Work Unit\PlaySubtitles	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	273222379	Marker_Test_001	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Android\SFX\Marker_Test_001_CC87FBFB.wem		\Actor-Mixer Hierarchy\SubtitleDemo\Marker_Test_001		938254
+

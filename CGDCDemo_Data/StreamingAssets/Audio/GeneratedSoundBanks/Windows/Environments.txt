@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1562304622	Play_Ambient			\Default Work Unit\Play_Ambient	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3983943587	MusicInsideOutside			\Default Work Unit\MusicInsideOutside	
+
+State	ID	Name	State Group			Notes
+	438105790	Outside	MusicInsideOutside			
+	748895195	None	MusicInsideOutside			
+	3553349781	Inside	MusicInsideOutside			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	418901857	Inside	MusicInsideOutside	\Actor-Mixer Hierarchy\Default Work Unit\Ambient		
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	1025496215	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Ambient_Layer_01\Silence\Wwise Silence	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	334325659	Bluezone-Abyss-sound-003	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\Bluezone-Abyss-sound-003_F00644E1.wem	334325659.wem	\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Ambient_Layer_01\Bluezone-Abyss-sound-003	
+	663208621	Bluezone-Abyss-sound-002	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\Bluezone-Abyss-sound-002_F00644E1.wem	663208621.wem	\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Ambient_Layer_01\Bluezone-Abyss-sound-002	
+	938860141	Bluezone-Abyss-sound-001	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\Bluezone-Abyss-sound-001_F00644E1.wem	938860141.wem	\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Ambient_Layer_01\Bluezone-Abyss-sound-001	
+	948416753	Bluezone-Abyss-sound-004	C:\Users\Administrator\Desktop\UEDemoProject\UEDemoProject2019.2.3_CheckResources\WwiseUnityDemoScene\WwiseProject\.cache\Windows\SFX\Bluezone-Abyss-sound-004_F00644E1.wem	948416753.wem	\Actor-Mixer Hierarchy\Default Work Unit\Ambient\Ambient_Layer_01\Bluezone-Abyss-sound-004	
+
